@@ -1,8 +1,7 @@
+# Rotating-menu
+Animation to rotate the page and show the navigation menu using JS and CSS.
 
 ## Link **https://wolf-ed.github.io/rotating-menu/**
-
-## Rotating-menu
-Animation to rotate the page and show the navigation menu using JS and CSS.
 
 ## Technologies
 
